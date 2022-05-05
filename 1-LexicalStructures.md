@@ -19,11 +19,28 @@ Qsuは、2種類のコメントを定義します。
 
 ## キーワード
 ASCII文字列から形成される次の文字列は、キーワードとして予約されており、識別子として使用することはできません。
-- 
-- 
-- 
-- 
-- 
+- `if`
+- `else`
+- `return`
+- `for`
+- `while`
+- `do`
+- `break`
+- `continue`
+- `let`
+- `float`
+- `char`
+- `int`
+- `bool`
+- `object`
+- `bool`
+- `long`
+- `double`
+- `fn`
+- `void`
+- `this`
+- `new`
+- `class`
 
 ## リテラル
 リテラルは、int型、float型、char型、bool型、string型、null型の値のソースコード表現とします。
@@ -57,7 +74,14 @@ ASCII文字列から形成される次の文字列は、キーワードとして
 各文字は、エスケープシーケンスで表現することも可能です。
 
 ### エスケープシーケンス
-保留
+- `\b` Backspace
+- `\t` Horizontal Tab
+- `\n` Line Feed
+- `\f` Form Feed
+- `\r` Carriage Return
+- `\"` Double Quote
+- `\'` Single Quote
+- `\\` Backslash
 
 ### nullリテラル
 `null`の4文字で構成される文字列を、nullリテラルとします。
