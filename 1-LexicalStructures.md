@@ -33,7 +33,6 @@ ASCII文字列から形成される次の文字列は、キーワードとして
 - `int`
 - `bool`
 - `object`
-- `bool`
 - `long`
 - `double`
 - `fn`
