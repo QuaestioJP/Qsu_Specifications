@@ -19,7 +19,7 @@
   <tr>
     <td rowspan="3">2</td>
     <td>メンバーアクセス</td>
-    <td rowspan="3">右から左</td>
+    <td rowspan="3">左から右</td>
     <td>... <code>.</code> ...</td>
   </tr>
   <tr>
