@@ -65,7 +65,7 @@
   <tr>
     <td rowspan="3">5</td>
     <td rowspan="3">乗除</td>
-    <td rowspan="14">左から右</td>
+    <td rowspan="16">左から右</td>
     <td>... <code>*</code> ...</td>
   </tr>
   <tr>
@@ -85,44 +85,52 @@
   <tr>
     <td rowspan="4">7</td>
     <td rowspan="4">大小比較</td>
-    <td>... <code><</code> ...</td>
+    <td>... <code>&lt;</code> ...</td>
   </tr>
   <tr>
-    <td>... <code>></code> ...</td>
+    <td>... <code>&gt;</code> ...</td>
   </tr>
   <tr>
-    <td>... <code><=</code> ...</td>
+    <td>... <code>&lt;=</code> ...</td>
   </tr>
   <tr>
-    <td>... <code>>=</code> ...</td>
+    <td>... <code>&gt;=</code> ...</td>
   </tr>
   <tr>
-    <td>8</td>
+    <td rowspan="2">8</td>
+    <td rowspan="2">等価比較</td>
+    <td>... <code>==</code> ...</td>
+  </tr>
+  <tr>
+    <td>... <code>!=</code> ...</td>
+  </tr>
+  <tr>
+    <td>9</td>
     <td>ビット論理積</td>
     <td>... <code>&</code> ...</td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td>ビット論理和</td>
     <td>... <code>|</code> ...</td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>11</td>
     <td>ビット排他的論理和</td>
     <td>... <code>^</code> ...</td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>12</td>
     <td>論理積</td>
     <td>... <code>&&</code> ...</td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>13</td>
     <td>論理和</td>
     <td>... <code>||</code> ...</td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>14</td>
     <td>代入</td>
     <td>右から左</td>
     <td>... <code>=</code> ...</td>
