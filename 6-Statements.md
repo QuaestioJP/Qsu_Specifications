@@ -28,3 +28,6 @@ Qsuのプログラムは、文によって構成されます。
 ## 関数終了文
 - **return ;**
 - **return** *\<expression\>* **;**
+
+## クラス
+- **class** *\<identifier\>* **{** *\<statementList\>* **}**
